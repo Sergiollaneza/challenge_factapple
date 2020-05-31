@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590933896338.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E30B92A0",
+    "lastKnownWriteTime" : 1590933957,
+    "last_content_update" : 1590933957668,
+    "path" : "~/Documents/Challenges/packageChallenge/factapple/R/facts.R",
+    "project_path" : "R/facts.R",
+    "properties" : {
+        "cursorPosition" : "5,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
